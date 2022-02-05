@@ -1,5 +1,5 @@
 # CSC2611
-Coursework for CSC2611 at UofT.
+Coursework for CSC2611 at UofT. All labs are in ``CSC2611/labs/``. To run a lab, run the corresponding ``main.py`` file.
 
 ## Requirements:
 
